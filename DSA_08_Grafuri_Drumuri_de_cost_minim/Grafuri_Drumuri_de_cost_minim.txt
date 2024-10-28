@@ -1,13 +1,8 @@
 Cerinte: 
-Implementati algoritmul lui Dijkstra (vezi C9 – slide 22-29) modificand codul pus la dispozitie astfel 
-incat: 
-a) sa tina evidenta predecesorilor pentru a putea recupera calea de cost minim de la varful sursa 
-la fiecare alt varf (2p) 
-b) adaptati implementarea pentru reprezentare cu lista de adiacenta. Complexitatea se va 
-modifica?  (4p)  
-c) pentru a gasi varful care inca nu e in sps,  cu distanta minima pana la sursa - utilizati o coada 
-cu prioritati (min heapul implementat pentru Lab 9) - Adaptati implememtarea. (BONUS 5p) 
-Alegeti un graf (altul decat cel dat in C9) si un varf sursa pentru acesta si afisati costul minim de la 
-sursa la fiecare varf si drumul de la sursa la acel varf. (1p) 
+Implementati algoritmul lui Dijkstra modificand codul pus la dispozitie astfel incat: 
+a) sa tina evidenta predecesorilor pentru a putea recupera calea de cost minim de la varful sursa la fiecare alt varf (2p) 
+b) adaptati implementarea pentru reprezentare cu lista de adiacenta. Complexitatea se va modifica?  (4p)  
+c) pentru a gasi varful care inca nu e in sps,  cu distanta minima pana la sursa - utilizati o coada cu prioritati - Adaptati implementarea. (BONUS 5p) 
+Alegeti un graf si un varf sursa pentru acesta si afisati costul minim de la sursa la fiecare varf si drumul de la sursa la acel varf. (1p) 
 Executati pasii algoritmului de mana.(2p) 
 (1p oficiu)
