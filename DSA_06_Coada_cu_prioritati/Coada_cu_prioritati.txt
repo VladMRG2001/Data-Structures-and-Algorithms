@@ -1,19 +1,16 @@
 Min heap 
-Implementati urmatoarele functii pentru o structura de date de tip min heap care stocheaza 
-elemente de tip Data (pentru implementare Data este chiar tipul int).  
-Implementarea se va face folosind fisiere header (min_heap.h) si sursa (min_heap.c) astfel incat sa 
-puteti reutiliza facil codul scris in aplicatii unde veti folosi min heap-uri. (#include “min_heap.h”). 
-Nerespectarea acestei conditii => nota 0. 
-1. Functie creare heap (vezi C7 – slide 7) 
-2. Functie pentru redimesionarea heap-ului (vezi C7 - slide 12) 
-3. Functie pentru stergerea heap-ului (vezi C7 - slide 13) 
-4. Functie pentru afisarea elementelor din heap (vezi C7 - slide 13) 
-5. Functii pentru recuperare pozitie copii/parinte pentru un nod dat prin pozitia sa  (vezi C7 – 
-slide 8) 
-6. Functie pentru aflarea minimului (vezi C7 – slide 8) 
-7. Functie iterativa pentru cernere de sus in jos (heapify_down) - (vezi C7 – slide 9-10 - hint) 
-8. Functie iterativa pentru cernere de jos in sus (heapify_up) - (vezi C7 – slide 11-12) 
-9. Functie pentru adaugarea unui element in heap - (vezi C7 – slide 11-12) 
-10. Functie pentru stergerea unui element in heap - (vezi sugestie C7 – slide 20) 
-11. Functie pentru sortarea elementelor unui vector folosind heapsort, vectorul dat ca 
-parametru se va intoarce sortat in urma apelului (vezi C7 – slide 17) 
+Implementati urmatoarele functii pentru o structura de date de tip min heap care stocheaza elemente de tip Data (pentru implementare Data este chiar tipul int).  
+Implementarea se va face folosind fisiere header (min_heap.h) si sursa (min_heap.c) astfel incat sa puteti reutiliza facil codul scris in aplicatii unde veti folosi min heap-uri. (#include “min_heap.h”). 
+
+1. Functie creare heap
+2. Functie pentru redimesionarea heap-ului 
+3. Functie pentru stergerea heap-ului 
+4. Functie pentru afisarea elementelor din heap
+5. Functii pentru recuperare pozitie copii/parinte pentru un nod dat prin pozitia sa 
+6. Functie pentru aflarea minimului
+7. Functie iterativa pentru cernere de sus in jos (heapify_down) 
+8. Functie iterativa pentru cernere de jos in sus (heapify_up) 
+9. Functie pentru adaugarea unui element in heap 
+10. Functie pentru stergerea unui element in heap
+11. Functie pentru sortarea elementelor unui vector folosind heapsort, 
+vectorul dat ca parametru se va intoarce sortat in urma apelului  
