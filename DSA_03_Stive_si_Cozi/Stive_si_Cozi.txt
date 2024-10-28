@@ -1,10 +1,8 @@
 
-Creati o coada goala. Coada e implementata cu lista si fiecare nod stocheaza informatie de tip sir de 
-caractere de lungime variabila. 
-Cititi de la tastatura / dintr-un fisier o serie de cuvinte (pana la intalnirea cuvantului „stop” sau pana 
-la finalul fisierului).  
-Adaugati cuvintele citite intr-o coada folosind functia enQueue adaptata pentru a adauga informatie 
-de tip sir de caractere (lungime variabila). 
+Creati o coada goala. 
+Coada e implementata cu lista si fiecare nod stocheaza informatie de tip sir de caractere de lungime variabila. 
+Cititi de la tastatura / dintr-un fisier o serie de cuvinte (pana la intalnirea cuvantului „stop” sau pana la finalul fisierului).  
+Adaugati cuvintele citite intr-o coada folosind functia enQueue adaptata pentru a adauga informatie de tip sir de caractere (lungime variabila). 
 Procesati coada si afisati cuvintele citite initial – inversandu-le caracterele. 
 Ex: Se citeste:  
 Ana 
@@ -17,11 +15,7 @@ era
 erem 
 Pentru a inversa literele unui cuvant folositi o structura de date de tip stiva (implementata cu lista). 
 Adaptati stiva (functiile push si pop) astfel incat sa stocheze si manipuleze informatie de tip caracter. 
-Pentru a inversa literele unui cuvant faceti o functie -backwards- care primeste ca parametru sirul 
-original si returneaza sirul inversat si proceseaza sirul astfel: incepand cu primul caracter, se adauga 
-toate caracterele pana la ‘/0’ in stiva cu functia push. Apoi, cat timp stiva e goala, se extrag caractere 
-din stiva cu pop si se adauga incepand cu prima pozitie in sirul de returnat.   
-Extrageti elemente din coada – folosind functia deQueue adaptata pentru a returna informatie de tip 
-sir de caractere. 
-*inversarea caracterelor dintr-un cuvant se poate face, fie cand e adaugat cuvantul in coada, fie 
-cand este extras si afisat. 
+Pentru a inversa literele unui cuvant faceti o functie -backwards- care primeste ca parametru sirul original si returneaza sirul inversat si proceseaza sirul astfel: incepand cu primul caracter, se adauga toate caracterele pana la ‘/0’ in stiva cu functia push. 
+Apoi, cat timp stiva e goala, se extrag caractere din stiva cu pop si se adauga incepand cu prima pozitie in sirul de returnat.   
+Extrageti elemente din coada – folosind functia deQueue adaptata pentru a returna informatie de tip sir de caractere. 
+*inversarea caracterelor dintr-un cuvant se poate face, fie cand e adaugat cuvantul in coada, fie cand este extras si afisat. 
