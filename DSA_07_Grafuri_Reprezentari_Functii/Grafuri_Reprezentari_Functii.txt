@@ -1,11 +1,8 @@
 Cerinte: 
 Implementati si testati urmatoarele functii 
 1. o functie care transforma un graf reprezentat prin matrice de adiacenta in reprezentarea cu lista de adiacenta 
-2. o functie care transforma un graf reprezentat prin lista de adiacenta in reprezentarea cu 
-matrice de adiacenta 
+2. o functie care transforma un graf reprezentat prin lista de adiacenta in reprezentarea cu matrice de adiacenta 
 3. functii care eliberare spatiu ocupat de graf (pentru fiecare reprezentare in parte) 
 4. functii pentru testarea existentei unei muchii de la x la y  (pentru fiecare reprezentare in parte)  
 5. functii pentru afisarea muchiilor incidente cu x (pentru fiecare reprezentare in parte)  
-6. functie pentru calculul matricei drumurilor - Algoritmul Roy – Warshall  (C8-slide25) - pentru 
-reprezentare cu matrice de adiacenta  
-Pentru a realiza si afisa grafuri se pot folosi functiile C8 – sliduri 16-23.
+6. functie pentru calculul matricei drumurilor - Algoritmul Roy – Warshall - pentru reprezentare cu matrice de adiacenta  
