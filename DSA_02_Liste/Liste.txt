@@ -1,4 +1,5 @@
-Laborator lista 
+--- Liste ---
+
 1. Creati o lista - direct in forma ordonata, datele (valori intregi) sunt citite de la tastatura/din fisier. 
 Afisati elementele in ordine inversa! 
 2. Creati o functie pentru eliminarea elementelor care se repeta intr-o lista de intregi si afisati lista rezultata. 
