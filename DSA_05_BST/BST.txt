@@ -1,10 +1,10 @@
+--- BST ---
 
 1. Creati o functie pentru generarea unui arbore binar ce contine informatie de tip int.
 Implementati o functie care verifica daca un arbore e BST sau nu. 
 (Hint! Pentru fiecare nod investigat verificati daca valoare stocata este mai mare decat valoare maxima din 
 subarborele stang si mai mica decat valoare maxima din subarborele drept.) 
 2. Creati o functie pentru generarea unui arbore BST.
-Implementati o functie recursiva care returneaza adresa nodului 
-ce contine cea mai mica a K-a valoare din arbore. 
+Implementati o functie recursiva care returneaza adresa nodului ce contine cea mai mica a K-a valoare din arbore. 
 3. Creati o functie iterativa sau recursiva pentru gasirea adreselor nodurilor succesor si predecesor ale unui nod cu cheia K.   
 Testati aceste functii. 
