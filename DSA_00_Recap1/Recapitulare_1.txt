@@ -8,8 +8,7 @@
 2. Se da o matrice m superior triunghiulara cu l linii si c colane (l, c - citite de la tastatura)  
     -  realizati o functie care aloca dinamic spatiu pentru m 
     -  realizati o functie pentru citirea de la tastatura a valorilor stocate in m  
-    -  realizati o functie care ridica matricea la patrat (daca este posibil) si returneaza rezultatul (sau NULL) 
-intr-o alta matrice  
+    -  realizati o functie care ridica matricea la patrat (daca este posibil) si returneaza rezultatul (sau NULL) intr-o alta matrice  
     -  realizati o functie care calculeaza suma elementelor de pe diagonala principala 
     -  realizati o functie pentru afisarea lui m 
     In main - apelati functiile. 
@@ -17,4 +16,5 @@ intr-o alta matrice
 3.  Realizati o functie recursiva pentru calculul factorialului unui numar. 
     Cum arata stiva programului la apelul acestei functii ? (desenati) 
  
-Bonus  Realizati o functie care citeste de la tastatura numere pana cand e introdusa valoarea -1 si apoi le afiseaza in ordinea inversa a citirii (recursiv). Apelati-o in main!
+Bonus  Realizati o functie care citeste de la tastatura numere pana cand e introdusa valoarea -1 si apoi le afiseaza in ordinea inversa a citirii (recursiv). 
+Apelati-o in main!
