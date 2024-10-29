@@ -1,3 +1,5 @@
+--- Grafuri ---
+
 Cerinte: 
 Implementati si testati urmatoarele functii 
 1. o functie care transforma un graf reprezentat prin matrice de adiacenta in reprezentarea cu lista de adiacenta 
