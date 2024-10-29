@@ -1,6 +1,11 @@
+--- Coada cu prioritati ---
+
 Min heap 
-Implementati urmatoarele functii pentru o structura de date de tip min heap care stocheaza elemente de tip Data (pentru implementare Data este chiar tipul int).  
-Implementarea se va face folosind fisiere header (min_heap.h) si sursa (min_heap.c) astfel incat sa puteti reutiliza facil codul scris in aplicatii unde veti folosi min heap-uri. (#include “min_heap.h”). 
+Implementati urmatoarele functii pentru o structura de date de tip min heap
+care stocheaza elemente de tip Data (pentru implementare Data este chiar tipul int).  
+Implementarea se va face folosind fisiere header (min_heap.h) si sursa (min_heap.c),
+astfel incat sa puteti reutiliza facil codul scris in aplicatii unde veti folosi min heap-uri. 
+(#include “min_heap.h”). 
 
 1. Functie creare heap
 2. Functie pentru redimesionarea heap-ului 
