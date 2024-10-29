@@ -1,3 +1,5 @@
+--- Sortari si Complexitate ---
+
 1. Implementati mergesort si quicksort.
 2. Analizati functiile implementate mai sus. Care reprezinta metode de sortare stabile?   
 Care e complexitatea? Alegeti un vector cu 6 elemente si realizati pe foaie pasii din cei doi algoritmi de sortare. 
