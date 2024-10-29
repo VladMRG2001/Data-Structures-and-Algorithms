@@ -1,3 +1,5 @@
+--- Grafuri - Drumuri de cost minim ---
+
 Cerinte: 
 Implementati algoritmul lui Dijkstra modificand codul pus la dispozitie astfel incat: 
 a) sa tina evidenta predecesorilor pentru a putea recupera calea de cost minim de la varful sursa la fiecare alt varf (2p) 
