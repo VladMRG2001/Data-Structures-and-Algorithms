@@ -1,28 +1,28 @@
 Fie tipul de date Masina definit mai jos: 
 
 struct Masina{ 
-char *marca; //daca e nume compus se citeste cu cratima: Aston Martin se va introduce ca  Aston-Martin 
-int pret; 
-char numar[8]; //ex: IF09BCX, B89FMH  
+  char *marca; //daca e nume compus se citeste cu cratima: Aston Martin se va introduce ca  Aston-Martin 
+  int pret; 
+  char numar[8]; //ex: IF09BCX, B89FMH  
 } 
 
 1. Implementati o functie pentru citirea de date de la tastatura pentru o variabila de tip Masina. 
-2.  Implementati o functie pentru afisarea pe consola a valorile campurilor unei variabile de tip Masina 
+2. Implementati o functie pentru afisarea pe consola a valorile campurilor unei variabile de tip Masina 
 (cate o inregistrare pe linie) 
-3.  Implementati o functie pentru afisarea valorilor campurilor unei variabile de tip Masina intr-un fisier 
-text: parcare.txt (cate o inregistrare pe linie: Audi 14000 IF09BCX). Implementati o functie pentru citirea 
-de date din fisierul text parcare.txt pentru o variabila de tip Masina 
-4.  Implementati o functie care permite setarea marcii unei masini (functia va primi ca parametru noua 
-marca si variabila Masina de modificat).  
-5.  Implementati o functie care realizeaza o copie profunda a unei variabile de tip Masina si o stocheaza in 
-alta variabila de acest tip. ( 
-6.  In main, declarati o matrice (tablou bidimensional) cu dimensiune nxn (n – citit de la tastatura).  
-Matricea contine elemente de tip Masina (puteti sa numiti variabila – parcare). Alocati dinamic spatiu 
-pentru matricea de masini.  
+3. Implementati o functie pentru afisarea valorilor campurilor unei variabile de tip Masina
+intr-un fisier text: parcare.txt (cate o inregistrare pe linie: Audi 14000 IF09BCX). 
+Implementati o functie pentru citirea de date din fisierul text parcare.txt pentru o variabila de tip Masina 
+4. Implementati o functie care permite setarea marcii unei masini 
+(functia va primi ca parametru noua marca si variabila Masina de modificat).  
+5. Implementati o functie care realizeaza o copie profunda a unei variabile de tip Masina si o stocheaza in 
+alta variabila de acest tip.
+6. In main, declarati o matrice (tablou bidimensional) cu dimensiune nxn (n – citit de la tastatura).  
+Matricea contine elemente de tip Masina (puteti sa numiti variabila – parcare). 
+Alocati dinamic spatiu pentru matricea de masini.  
 Folositi metodele implementate la subpunctele anterioare pentru a citi date de la tastatura pentru 
 matrice si, respectiv, pentru a stoca masinile din matrice in fisierul parcare.txt.   
 Cititi intr-o variabila de tip Masina a 3-a linie din fisier. 
-7.  Implementati o functie care primeste matricea si dimensiunile sale, impreuna cu o variabila care se 
-refera la o linie din matrice. Functia returneaza suma preturilor masinilor de pe acea linie  
-8.   In main declarati un vector – v - de masini cu n elemente (static). Puneti toate masinile de pe diagonala 
-principala a matricei parcare in v.   
+7. Implementati o functie care primeste matricea si dimensiunile sale, impreuna cu o variabila care se refera la o linie din matrice. 
+Functia returneaza suma preturilor masinilor de pe acea linie  
+8. In main declarati un vector – v - de masini cu n elemente (static). 
+Puneti toate masinile de pe diagonala principala a matricei parcare in v.   
