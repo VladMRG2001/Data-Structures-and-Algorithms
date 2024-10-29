@@ -1,3 +1,4 @@
+--- Stive si Cozi ---
 
 Creati o coada goala. 
 Coada e implementata cu lista si fiecare nod stocheaza informatie de tip sir de caractere de lungime variabila. 
@@ -13,6 +14,7 @@ Se afiseaza:
 anA 
 era 
 erem 
+
 Pentru a inversa literele unui cuvant folositi o structura de date de tip stiva (implementata cu lista). 
 Adaptati stiva (functiile push si pop) astfel incat sa stocheze si manipuleze informatie de tip caracter. 
 Pentru a inversa literele unui cuvant faceti o functie -backwards- care primeste ca parametru sirul original si returneaza sirul inversat si proceseaza sirul astfel: incepand cu primul caracter, se adauga toate caracterele pana la ‘/0’ in stiva cu functia push. 
